@@ -8,8 +8,10 @@
 5. Selesai
 ## Luas dan Keliling Lingkaran
 ![tolol2](https://user-images.githubusercontent.com/115929351/198880780-efba66b0-e50b-4fee-add6-89ef363d5938.png)
-Membuat file berisi luas dan keliling lingkaran pada nano
+Step by step
+1. Membuat variabel untuk menginput dan menampilkan jari-jari lingkaran rumus luas, jari-jari dan keliling lingkaran
+2. Membuat file pada nano kemudian save
 
 ## Output Luas dan Keliling Lingkaran
 ![tolol3](https://user-images.githubusercontent.com/115929351/198880786-bafe964d-e91b-4230-a32c-8ebbef57bceb.png)
-Menjalankan/run dengan python3 lalu nama file, dan akan muncul masukkan jari-jari, dan user memasukkan angka maka hasil luas dan keliling akan ditampilkan
+Menjalankan/run dengan python3 lalu nama file, dan akan muncul masukkan jari-jari, dan user memasukkan angka maka hasil luas dan keliling akan ditampilkan. Dan ini adalah hasil output dari keliling dan luas lingkaran
